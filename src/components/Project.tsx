@@ -1,4 +1,7 @@
 import { useState } from "react";
+import portfolioImg from "../assets/port.jpeg";
+import taskImg from "../assets/task.jpeg";
+import jobBoardImg from "../assets/jobBoard.jpeg";
 
 type Project = {
   name: string;
@@ -15,27 +18,27 @@ const initialProjects: Project[] = [
     description:
       "A personal portfolio website to showcase my projects and skills.",
     technologies: ["React", "CSS", "Vite"],
-    liveLink: "https://your-portfolio-link.com",
-    githubLink: "https://github.com/yourusername/portfolio",
-    image: "/assets/portfolio-screenshot.png",
+    liveLink: "https://my-portfolio-kappa-one-76.vercel.app/",
+    githubLink: "https://github.com/Nyambura20/my-portfolio",
+    image: portfolioImg,
   },
   {
     name: "Task Manager App",
     description: "A simple task manager app with CRUD functionality.",
     technologies: ["JavaScript", "React", "Bootstrap"],
-    githubLink: "https://github.com/yourusername/task-manager",
-    image: "/assets/task-manager-screenshot.png",
+    liveLink: "https://task-manager-beta-mauve-25.vercel.app/",
+    githubLink: "https://github.com/Nyambura20/task-manager",
+    image: taskImg,
   },
   {
     name: "Job Board App",
     description:
       "A job board platform where users can browse and post job listings. Includes search and filter features.",
     technologies: ["React", "TypeScript", "CSS Modules"],
-    liveLink: "https://your-job-board-link.com",
-    githubLink: "https://github.com/yourusername/job-board-app",
-    image: "/assets/job-board-screenshot.png",
+    liveLink: "https://job-board-brown.vercel.app/",
+    githubLink: "https://github.com/Nyambura20/job-board",
+    image: jobBoardImg,
   },
-  // Add more projects as needed
 ];
 
 function Project() {

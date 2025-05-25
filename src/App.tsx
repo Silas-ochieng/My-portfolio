@@ -7,6 +7,7 @@ import Skills from "./components/Skills";
 import Education from "./components/Education";
 import Project from "./components/Project";
 import Contact from "./components/Contact";
+
 function App() {
   const [currentSection, setCurrentSection] = useState("home");
 
@@ -16,7 +17,9 @@ function App() {
         onSectionChange={setCurrentSection}
         currentSection={currentSection}
       />
-      <Hero onSectionChange={setCurrentSection} />
+      {currentSection === "home" && (
+        <Hero onSectionChange={setCurrentSection} />
+      )}
       {currentSection === "about" && <About />}
       {currentSection === "resume" && (
         <>

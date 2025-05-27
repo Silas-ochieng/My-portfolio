@@ -80,7 +80,7 @@ src/
 
 ## 📬 Contact
 
-Feel free to reach out via the contact form on the site, or connect with me on [LinkedIn](www.linkedin.com/in/silas-ochieng-943372305) or [GitHub](https://github.com/Silas-ochieng).
+Feel free to reach out via the contact form on the site, or connect with me on [LinkedIn](https://www.linkedin.com/in/silas-ochieng-943372305/) or [GitHub](https://github.com/Silas-ochieng).
 
 ---
 

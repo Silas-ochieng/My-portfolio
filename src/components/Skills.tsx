@@ -8,10 +8,12 @@ type Skill = {
 const initialSkills: Skill[] = [
   { name: "JavaScript", level: "Advanced" },
   { name: "React", level: "Advanced" },
-  { name: "HTML5", level: "Advanced" },
-  { name: "CSS3", level: "Advanced" },
-  { name: "TypeScript", level: "Intermediate" },
+  { name: "Power BI", level: "intermediate" },
+  { name: "Python", level: "Advanced" },
+  { name: "Tableau", level: "Advanced" },
   { name: "Git & GitHub", level: "Intermediate" },
+  { name: "Data analysis and cleaning", level: "Advanced" },
+  { name: "Machine learning development", level: "Advanced" },
   { name: "Responsive Design", level: "Advanced" },
 ];
 

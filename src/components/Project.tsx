@@ -1,5 +1,4 @@
 import { useState } from "react";
-import portfolioImg from "../assets/port.jpeg";
 import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
 
@@ -19,8 +18,7 @@ const initialProjects: Project[] = [
       "A personal portfolio website to showcase my projects and skills.",
     technologies: ["React", "CSS", "Vite"],
     liveLink: "https://my-portfolio-kappa-one-76.vercel.app/",
-    githubLink: "https://github.com/Silas-ochieng",
-    image: portfolioImg,
+    githubLink: "https://github.com/Silas-ochieng/My-portfolio.git",
   },
   {
     name: "Task Manager App",

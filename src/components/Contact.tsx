@@ -35,12 +35,12 @@ function Contact() {
         <br />
         LinkedIn:{" "}
         <a
-          href="www.linkedin.com/in/silas-ochieng-943372305
+          href="https://www.linkedin.com/in/silas-ochieng-943372305/
 "
           target="_blank"
           rel="noopener noreferrer"
         >
-          www.linkedin.com/in/silas-ochieng-943372305
+          https://www.linkedin.com/in/silas-ochieng-943372305/
         </a>
       </p>
       <form className="contact-form" onSubmit={handleSubmit}>

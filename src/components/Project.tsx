@@ -16,7 +16,7 @@ const initialProjects: Project[] = [
     description:
       "A personal portfolio website to showcase my projects and skills.",
     technologies: ["React", "CSS", "Vite"],
-    liveLink: "https://my-portfolio-dxn4-n049oe5qp-silas-ochiengs-projects.vercel.app/",
+    liveLink: "https://my-portfolio-dxn4.vercel.app/",
     githubLink: "https://github.com/Silas-ochieng/My-portfolio.git",
   },
   {

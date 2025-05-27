@@ -1,7 +1,6 @@
 import { useState } from "react";
 import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
-
 type Project = {
   name: string;
   description: string;

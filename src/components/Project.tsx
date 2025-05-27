@@ -32,7 +32,7 @@ const initialProjects: Project[] = [
     description:
       "A job board platform where users can browse and post job listings. Includes search and filter features.",
     technologies: ["React", "TypeScript", "CSS Modules"],
-    liveLink: "https://job-board-brown.vercel.app/",
+    liveLink: "https://job-board-eight-psi.vercel.app/",
     githubLink: "https://github.com/Silas-ochieng/Job-board.git",
     image: jobBoardImg,
   },

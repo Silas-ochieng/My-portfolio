@@ -19,7 +19,7 @@ const initialProjects: Project[] = [
       "A personal portfolio website to showcase my projects and skills.",
     technologies: ["React", "CSS", "Vite"],
     liveLink: "https://my-portfolio-kappa-one-76.vercel.app/",
-    githubLink: "https://github.com/Nyambura20/my-portfolio",
+    githubLink: "https://github.com/Silas-ochieng",
     image: portfolioImg,
   },
   {
@@ -27,7 +27,7 @@ const initialProjects: Project[] = [
     description: "A simple task manager app with CRUD functionality.",
     technologies: ["JavaScript", "React", "Bootstrap"],
     liveLink: "https://task-manager-beta-mauve-25.vercel.app/",
-    githubLink: "https://github.com/Nyambura20/task-manager",
+    githubLink: "https://github.com/Silas-ochieng/task-manager.git",
     image: taskImg,
   },
   {
@@ -36,7 +36,7 @@ const initialProjects: Project[] = [
       "A job board platform where users can browse and post job listings. Includes search and filter features.",
     technologies: ["React", "TypeScript", "CSS Modules"],
     liveLink: "https://job-board-brown.vercel.app/",
-    githubLink: "https://github.com/Nyambura20/job-board",
+    githubLink: "https://github.com/Silas-ochieng/Job-board.git",
     image: jobBoardImg,
   },
 ];

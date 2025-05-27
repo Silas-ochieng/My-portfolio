@@ -20,27 +20,27 @@ function Contact() {
     <section className="contact-section">
       <p className="contact-info">
         Email:{" "}
-        <a href="mailto:kiirusarah222@gmail.com">kiirusarah222@gmail.com</a>
+        <a href="mailto:silaoketch2021@gmail.com">silaoketch2021@gmail.com</a>
         <br />
         Location: Mombasa, Kenya
         <br />
         GitHub:{" "}
         <a
-          href="https://github.com/Nyambura20"
+          href="https://github.com/Silas-ochieng"
           target="_blank"
           rel="noopener noreferrer"
         >
-          https://github.com/Nyambura20
+          https://github.com/Silas-ochieng
         </a>
         <br />
         LinkedIn:{" "}
         <a
-          href="https://www.linkedin.com/in/sarah-kiiru-a3a41a310
+          href="www.linkedin.com/in/silas-ochieng-943372305
 "
           target="_blank"
           rel="noopener noreferrer"
         >
-          www.linkedin.com/in/sarah-kiiru-a3a41a310
+          www.linkedin.com/in/silas-ochieng-943372305
         </a>
       </p>
       <form className="contact-form" onSubmit={handleSubmit}>

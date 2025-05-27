@@ -1,4 +1,4 @@
-import profileImg from "../assets/profile.jpg";
+import profileImg from "../assets/profile.png";
 
 type HeroProps = {
   onSectionChange: (section: string) => void;
@@ -7,11 +7,12 @@ type HeroProps = {
 function Hero({ onSectionChange }: HeroProps) {
   return (
     <section className="hero-section">
-      <img src={profileImg} alt="Sarah Nyambura" className="hero-photo" />
-      <h1 className="intro-name">Hello, I am Sarah Nyambura</h1>
+      <img src={profileImg} alt="Silas Ochieng" className="hero-photo" />
+      <h1 className="intro-name">Hello, I am Silas Ochieng</h1>
       <p className="hero-tagline">
-        <strong className="intro-a">Frontend Developer</strong> I build modern
-        web apps with JavaScript and React.
+        <strong className="intro-a">Machine learning engineer</strong> I build modern
+        web apps with JavaScript and React,Perform exploratory data analysis (EDA) to discover trends and patterns,
+        Build and evaluate machine learning models for prediction and classification,Document and present data-driven insights through dashboards and reports
       </p>
       <div className="hero-actions">
         <button

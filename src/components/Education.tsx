@@ -14,11 +14,11 @@ type Certification = {
 
 const educationData: EducationEntry[] = [
   {
-    institution: "Technical University of Mombasa",
-    degree: "Bachelors of Science Information Technology",
-    period: "2022 - Present",
+    institution: "Meru University of Science and Technology",
+    degree: "Bachelors of Science in Data Science",
+    period: "2025 - Present",
     details:
-      "Relevant coursework: Web Development, Data Structures, Software Engineering",
+      "Relevant coursework: Web Development, Natural Language Processing, Deep learning, Data ethics and Privacy,Software Engineering",
   },
 ];
 

@@ -40,7 +40,6 @@ body {
   padding: 1.2rem 2.5rem;
   background: var(--bg-glass);
   box-shadow: var(--shadow);
-  backdrop-filter: blur(var(--glass-blur));
   border-bottom: 1.5px solid rgba(127, 90, 240, 0.12);
   animation: fadeInDown 1s;
 }
@@ -270,7 +269,6 @@ section,
   background: var(--bg-glass);
   border-radius: var(--radius);
   box-shadow: var(--shadow);
-  backdrop-filter: blur(var(--glass-blur));
   margin: 2.5rem auto 0 auto;
   padding: 3rem 2rem;
   max-width: 950px;
@@ -293,7 +291,6 @@ section,
   background: rgba(26, 22, 37, 0.28); /* Brighter, more purple glass */
   border-radius: 1.5rem;
   box-shadow: 0 8px 32px 0 rgba(80, 43, 190, 0.18);
-  backdrop-filter: blur(12px);
   border-left: 6px solid #7f5af0;
   border: 1.5px solid rgba(255, 255, 255, 0.18);
   padding: 2.5rem 2rem 2.5rem 2.5rem;

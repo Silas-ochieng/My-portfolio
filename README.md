@@ -1,7 +1,7 @@
-# Sarah Nyambura's Portfolio
+# Silas's  Ochieng Portfolio
 
 Welcome to my personal portfolio!  
-This project showcases my skills, projects, education, and contact information as a Frontend Developer and IT student.
+This project showcases my skills, projects, education, and contact information as a Frontend Developer and Data science student.
 
 ## 🚀 Features
 
@@ -22,8 +22,21 @@ This project showcases my skills, projects, education, and contact information a
 - [Vite](https://vitejs.dev/)
 - CSS (custom, glassmorphism, responsive)
 - [ESLint](https://eslint.org/) & [Prettier](https://prettier.io/)
+## 🛠️ Data science
+- [Python](https://www.python.org/)
+- [Pandas](https://pandas.pydata.org/)
+- [NumPy](https://numpy.org/)
+- [Matplotlib](https://matplotlib.org/)
+- [Scikit-learn](https://scikit-learn.org/)
+## 📚 Education
+- [Meru university of science and Technology](https://student.must.ac.ke/)
+- [Data Science with Python](https://www.coursera.org/specializations/jhu)
+- [Coursera](https://www.coursera.org/)
+- [Data Science Bootcamp](https://www.datacamp.com/)
+- [Frontend Development Bootcamp](https://www.frontendmentor.io/)
 
-## 📦 Getting Started
+
+
 
 1. **Clone the repository:**
 
@@ -67,8 +80,8 @@ src/
 
 ## 📬 Contact
 
-Feel free to reach out via the contact form on the site, or connect with me on [LinkedIn](https://www.linkedin.com/in/sarah-kiiru-a3a41a310) or [GitHub](https://github.com/Nyambura20).
+Feel free to reach out via the contact form on the site, or connect with me on [LinkedIn](www.linkedin.com/in/silas-ochieng-943372305) or [GitHub](https://github.com/Silas-ochieng).
 
 ---
 
-**Made with ❤️ by Sarah Nyambura**
+**Made with ❤️ by Silas Ochieng**

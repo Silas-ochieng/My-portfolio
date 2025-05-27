@@ -23,7 +23,7 @@ const initialProjects: Project[] = [
     name: "Task Manager App",
     description: "A simple task manager app with CRUD functionality.",
     technologies: ["JavaScript", "React", "Bootstrap"],
-    liveLink: "https://task-manager-beta-mauve-25.vercel.app/",
+    liveLink: "https://task-manager-henna-one.vercel.app/",
     githubLink: "https://github.com/Silas-ochieng/task-manager.git",
     image: taskImg,
   },

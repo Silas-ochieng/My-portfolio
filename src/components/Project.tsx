@@ -1,6 +1,9 @@
 import { useState } from "react";
 import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
+import smartspaceImg from "../assets/smartspace-preview.jpeg"; // Add this import
+
+
 type Project = {
   name: string;
   description: string;
@@ -11,6 +14,14 @@ type Project = {
 };
 
 const initialProjects: Project[] = [
+  {
+    name: "SmartSpace123",
+    description: "A modern event space booking platform with real-time availability and interactive UI.",
+    technologies: ["React", "Vite", "TailwindCSS", "Axios"],
+    liveLink: "https://smartspace123.vercel.app",
+    githubLink: "https://github.com/Silas-ochieng/SmartSpace",
+    image: smartspaceImg
+  },
   {
     name: "Portfolio Website",
     description:

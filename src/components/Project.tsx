@@ -1,7 +1,8 @@
 import { useState } from "react";
 import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
-import smartspaceImg from "../assets/smartspace-preview.jpeg"; // Add this import
+import smartspaceImg from "../assets/smartspace-preview.jpeg";
+import projectImg from "../assets/project.jpeg";
 
 
 type Project = {
@@ -46,6 +47,14 @@ const initialProjects: Project[] = [
     liveLink: "https://job-board-eight-psi.vercel.app/",
     githubLink: "https://github.com/Silas-ochieng/Job-board.git",
     image: jobBoardImg,
+  },
+  {
+    name: "News & Media Platform",
+    description: "A Django web application for sharing news, sports updates, and event information.",
+    technologies: ["Django", "Python", "HTML", "CSS", "Bootstrap"],
+    liveLink: "https://news-and-media-platform.onrender.com/",
+    githubLink: "https://github.com/Silas-ochieng/News-and-Media-platform",
+    image: projectImg,
   },
 ];
 

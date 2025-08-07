@@ -1,8 +1,8 @@
 import { useState } from "react";
 import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
-import smartspaceImg from "../assets/smartspace-preview.jpeg";
-import projectImg from "../assets/project.jpeg";
+import smartspaceImg from "../assets/smartspace-preview.jpeg"; // Add this import
+import newsImg from "../assets/News platform.png"; // Add this import
 
 
 type Project = {
@@ -54,7 +54,7 @@ const initialProjects: Project[] = [
     technologies: ["Django", "Python", "HTML", "CSS", "Bootstrap"],
     liveLink: "https://news-and-media-platform.onrender.com/",
     githubLink: "https://github.com/Silas-ochieng/News-and-Media-platform",
-    image: projectImg,
+    image: newsImg,
   },
 ];
 

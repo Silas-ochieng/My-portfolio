@@ -3,6 +3,7 @@ import taskImg from "../assets/task.jpeg";
 import jobBoardImg from "../assets/jobBoard.jpeg";
 import smartspaceImg from "../assets/smartspace-preview.jpeg"; // Add this import
 import newsImg from "../assets/News platform.png"; // Add this import
+import projectImg from "../assets/project.jpeg";
 
 
 type Project = {
@@ -30,6 +31,7 @@ const initialProjects: Project[] = [
     technologies: ["React", "CSS", "Vite"],
     liveLink: "https://my-portfolio-dxn4.vercel.app/",
     githubLink: "https://github.com/Silas-ochieng",
+    image: projectImg,
   },
   {
     name: "Task Manager App",
